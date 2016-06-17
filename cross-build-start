@@ -2,3 +2,4 @@
 
 mv /bin/sh /bin/sh.real
 cp /usr/bin/sh-shim /bin/sh
+chmod 777 /bin/sh
